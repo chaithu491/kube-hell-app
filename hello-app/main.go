@@ -50,3 +50,4 @@ func hello(w http.ResponseWriter, r *http.Request) {
 	fmt.Fprintf(w, "Hostname: %s\n", host)
 }
 // [END all]
+*
